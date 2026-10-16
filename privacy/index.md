@@ -4,8 +4,7 @@ title: Privacy Policy — Forge Tales
 
 # Forge Tales — Privacy Policy
 
-
-**Effective date:** 12 October 2026
+**Effective date:** 16 October 2026
 **Contact:** The developer contact details on the game's Google Play page
 
 ## What this policy covers
@@ -24,10 +23,20 @@ empty request to well-known public addresses operated by Google, Cloudflare and 
 carry nothing about you beyond what any internet request carries (such as your IP address), and we do
 not receive them.
 
-**Purchases.** In-app purchases are processed by Google Play. We never see your payment details. Play
-tells the game which item you bought so it can be delivered, and keeps a record of items that last
-(No Ads, hero packs) so they can be restored on a new install. Unity IAP, the library that talks to
-Google Play, may send purchase telemetry to Unity Technologies.
+**Purchases.** In-app purchases are processed by Google Play or the Apple App Store. We never see your
+payment details. The store tells the game which item you bought so it can be delivered, and keeps a
+record of items that last (No Ads, hero packs) so they can be restored on a new install. Unity IAP, the
+library that talks to the store, may send purchase telemetry to Unity Technologies.
+
+**Game analytics (Google Analytics for Firebase).** To learn how the game is played and where it can
+be improved, the game uses Google Analytics for Firebase. It records how the game is used — for
+example sessions, stages won or lost, finishing the tutorial, opening the shop, rewarded ads watched and
+in-app purchases — together with device information (model, operating system, language, approximate
+location from the IP address) and a random app-instance identifier. **It is used for analytics only:**
+the game tells Firebase that advertising storage, advertising use of the data and ad personalisation
+are not allowed, so this data is not used to show you ads. Google's policy:
+https://policies.google.com/privacy and how Google uses data from apps:
+https://policies.google.com/technologies/partner-sites
 
 **Rewarded ads (Unity Ads).** The game offers optional ads that you choose to watch for a reward. They
 are served by Unity Ads, whose SDK collects device information such as the advertising identifier, IP
@@ -43,7 +52,7 @@ turn them off in Settings or in your device settings.
 ## What we do not do
 
 We do not ask for your name, email address, contacts, photos, microphone or precise location. We do
-not run analytics of our own, and we do not sell or share personal information.
+not sell personal information, and we do not use it to target ads at you.
 
 ## Children
 
@@ -56,11 +65,11 @@ collect personal information from children.
 * Reset or delete your advertising ID in your device settings.
 * Depending on where you live (for example the EEA, the UK, California), you may have the right to
   access, correct or delete personal information and to object to certain processing. We hold no game
-  data about you; for data held by Unity, use the contact in Unity's policy above; for anything else,
-  use the developer contact details on the game's Google Play page.
+  data about you; analytics data is kept by Google for up to 14 months and is not linked to your name
+  or account; for data held by Unity or Google, use the contacts in their policies above; for anything
+  else, use the developer contact details on the game's store page.
 
 ## Changes
 
 We may update this policy. The new version will be posted at this address with a new effective date
 before it applies.
-
