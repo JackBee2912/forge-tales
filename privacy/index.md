@@ -4,7 +4,7 @@ title: Privacy Policy — Forge Tales
 
 # Forge Tales — Privacy Policy
 
-**Effective date:** 16 October 2026
+**Effective date:** 24 October 2026
 **Contact:** The developer contact details on the game's Google Play page
 
 ## What this policy covers
@@ -38,8 +38,9 @@ are not allowed, so this data is not used to show you ads. Google's policy:
 https://policies.google.com/privacy and how Google uses data from apps:
 https://policies.google.com/technologies/partner-sites
 
-**Rewarded ads (Unity Ads).** The game offers optional ads that you choose to watch for a reward. They
-are served by Unity Ads, whose SDK collects device information such as the advertising identifier, IP
+**Ads (Unity Ads).** The game offers optional ads that you choose to watch for a reward, and after a
+stage is won it may show a full-screen ad between stages (never during a fight, never to a new player,
+a few minutes apart and a limited number a day). They are served by Unity Ads, whose SDK collects device information such as the advertising identifier, IP
 address (approximate location), device model, diagnostics and how you interact with the ads, in order
 to show the ad, pay for it and prevent fraud. **The game asks Unity Ads for non-personalised ads
 only**: it does not use your data to target ads at you. If you buy *No Ads*, no ads are shown at all.
